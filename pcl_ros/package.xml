@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>pcl_ros_c11</name>
-  <version>1.4.5</version>
+  <version>1.4.6</version>
   <description>
 
   PCL (Point Cloud Library) ROS interface stack. PCL-ROS is the preferred
@@ -40,7 +40,10 @@
   <depend>std_msgs</depend>
   <depend>tf</depend>
   <depend>tf2_eigen</depend>
-
+  <depend>libqhull</depend>
+  <depend>libflann-dev</depend>
+  <depend>libvtk</depend>
+  <depend>libusb-1.0-dev</depend>
   <test_depend>rostest</test_depend>
 
   <export>
