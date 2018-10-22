@@ -2,6 +2,11 @@
 Changelog for package pcl_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.4.6 (2018-10-22)
+------------------
+* added deps
+* Contributors: root
+
 1.4.5 (2018-10-21)
 ------------------
 * rpath
