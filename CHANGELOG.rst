@@ -2,6 +2,9 @@
 Changelog for package perception_pcl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.4.6 (2018-10-22)
+------------------
+
 1.4.5 (2018-10-21)
 ------------------
 * changed name and maintainer
