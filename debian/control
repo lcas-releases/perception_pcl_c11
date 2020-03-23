@@ -1,0 +1,13 @@
+Source: ros-melodic-pcl-ros-c11
+Section: misc
+Priority: optional
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, libflann-dev, libqhull-dev, libusb-1.0-0-dev, libvtk6-dev, ros-melodic-catkin, ros-melodic-cmake-modules, ros-melodic-dynamic-reconfigure, ros-melodic-genmsg, ros-melodic-message-filters, ros-melodic-nodelet, ros-melodic-nodelet-topic-tools, ros-melodic-pcl-catkin-c11, ros-melodic-pcl-conversions-c11, ros-melodic-pcl-msgs, ros-melodic-pluginlib, ros-melodic-rosbag, ros-melodic-rosconsole, ros-melodic-roscpp, ros-melodic-roslib, ros-melodic-rostest, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-tf, ros-melodic-tf2-eigen
+Homepage: http://ros.org/wiki/perception_pcl
+Standards-Version: 3.9.2
+
+Package: ros-melodic-pcl-ros-c11
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, libflann-dev, libqhull-dev, libusb-1.0-0-dev, libvtk6-dev, ros-melodic-dynamic-reconfigure, ros-melodic-message-filters, ros-melodic-nodelet, ros-melodic-nodelet-topic-tools, ros-melodic-pcl-catkin-c11, ros-melodic-pcl-conversions-c11, ros-melodic-pcl-msgs, ros-melodic-pluginlib, ros-melodic-rosbag, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-tf, ros-melodic-tf2-eigen
+Description: PCL (Point Cloud Library) ROS interface stack.
+ PCL-ROS is the preferred bridge for 3D applications involving n-D Point Clouds and 3D geometry processing in ROS.
