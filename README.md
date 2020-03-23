@@ -1,3 +1,28 @@
+## perception_pcl_c11 (melodic) - 1.4.6-1
+
+The packages in the `perception_pcl_c11` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic perception_pcl_c11` on `Mon, 23 Mar 2020 16:26:27 -0000`
+
+These packages were released:
+- `pcl_ros_c11`
+- `perception_pcl_c11`
+
+Version of package(s) in repository `perception_pcl_c11`:
+
+- upstream repository: https://github.com/LCAS/perception_pcl.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.4.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## perception_pcl_c11 (kinetic) - 1.4.6-0
 
 The packages in the `perception_pcl_c11` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic perception_pcl_c11` on `Mon, 22 Oct 2018 08:21:01 -0000`
